@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AnimalTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2017-03-03T14:54:21" hostname="alice-HP-EliteBook-8460p" time="0.359">
+  <properties/>
+  <testcase name="save_assignsIdToAnimal_true" classname="AnimalTest" time="0.21"/>
+  <testcase name="animal_returnsName_True" classname="AnimalTest" time="0.008"/>
+  <testcase name="equals_FalseIfAttributesAreDifferent_false" classname="AnimalTest" time="0.007"/>
+  <testcase name="equals_returnsTrueIfNameIsTheSame_true" classname="AnimalTest" time="0.007"/>
+  <testcase name="find_returnsNullWhenNoAnimalIsFound_null" classname="AnimalTest" time="0.029"/>
+  <testcase name="animal_instantiatesCorrectly_true" classname="AnimalTest" time="0.009"/>
+  <testcase name="save_savesToDataBase_true" classname="AnimalTest" time="0.035"/>
+  <testcase name="all_returnsAllInstancesOfAnimal_true" classname="AnimalTest" time="0.05"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

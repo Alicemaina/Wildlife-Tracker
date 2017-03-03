@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EndangeredTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2017-03-03T14:54:22" hostname="alice-HP-EliteBook-8460p" time="0.124">
+  <properties/>
+  <testcase name="endangered_returnsName_True" classname="EndangeredTest" time="0.007"/>
+  <testcase name="equals_FalseIfAttributesAreDifferent_false" classname="EndangeredTest" time="0.005"/>
+  <testcase name="endangered_instantiatesCorrectly_true" classname="EndangeredTest" time="0.005"/>
+  <testcase name="equals_returnsTrueIfNameIsTheSame_true" classname="EndangeredTest" time="0.009"/>
+  <testcase name="save_assignsIdToEndangered_true" classname="EndangeredTest" time="0.02"/>
+  <testcase name="all_returnsAllInstancesOfEndangered_true" classname="EndangeredTest" time="0.042"/>
+  <testcase name="save_savesToDataBase_true" classname="EndangeredTest" time="0.025"/>
+  <testcase name="find_returnsNullWhenNoEndangeredIsFound_null" classname="EndangeredTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

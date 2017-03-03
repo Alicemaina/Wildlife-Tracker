@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SightingTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2017-03-03T14:54:22" hostname="alice-HP-EliteBook-8460p" time="0.228">
+  <properties/>
+  <testcase name="ranger_AbleToCatchExceptionWhenNoLocation_nothing" classname="SightingTest" time="0.01"/>
+  <testcase name="sighting_returnsAnimalId_True" classname="SightingTest" time="0.005"/>
+  <testcase name="sighting_instantiatesCorrectly_true" classname="SightingTest" time="0.004"/>
+  <testcase name="sighting_returnsLocation_true" classname="SightingTest" time="0.005"/>
+  <testcase name="all_returnsAllInstancesOfSighting_true" classname="SightingTest" time="0.044"/>
+  <testcase name="Location_nolocationWasEnteredGrabExeption" classname="SightingTest" time="0.004"/>
+  <testcase name="rangername_AbleToCatchException_nothing" classname="SightingTest" time="0.004"/>
+  <testcase name="Location_nolocationWasEntered" classname="SightingTest" time="0.006"/>
+  <testcase name="all_GetAnimals_fromID" classname="SightingTest" time="0.05"/>
+  <testcase name="save_savesSightingToDataBase_true" classname="SightingTest" time="0.025"/>
+  <testcase name="equals_returnsTrueIfAttributesAreTheSame_true" classname="SightingTest" time="0.004"/>
+  <testcase name="Sighting_noRangerNameEntered_nothing" classname="SightingTest" time="0.004"/>
+  <testcase name="sighting_returnsRangerName_true" classname="SightingTest" time="0.004"/>
+  <testcase name="rangername_throwsAnExceptionIfRangerNameIsntEntered_nothing" classname="SightingTest" time="0.005"/>
+  <testcase name="find_returnsNullWhenNoSightingIsFound_null" classname="SightingTest" time="0.009"/>
+  <testcase name="find_returnsSightingWithSameAnimalId_true" classname="SightingTest" time="0.037"/>
+  <system-out><![CDATA[5
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
