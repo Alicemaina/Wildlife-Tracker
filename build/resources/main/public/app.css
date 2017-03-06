@@ -1,3 +1,12 @@
-#container-wild {
+.jumbotron {
 	background-image: url("https://lonelyplanetwp.imgix.net/2014/10/forest-elephant_cs.jpg?fit=min&q=40&sharp=10&vib=20&w=1470");
+	background-repeat: no-repeat;
+	-webkit-filter: opacity
+	background-position: center;
+	background-size: cover;
+	margin-top: 10%;
+}
+
+body {
+	color: #FF8C00;
 }
